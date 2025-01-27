@@ -1,4 +1,4 @@
-# HackerNews-Visualizer
+# HackerNews Visualizer
 This script fetches a specified number of news from news.ycombinator.com on Linux terminal.
 
 <h3> <b>Usage</b> </h3>
