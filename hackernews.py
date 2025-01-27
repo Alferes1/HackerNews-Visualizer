@@ -1,3 +1,4 @@
+# github.com/Alferes1
 # fetches the last 10 news from news.ycombinator.com (hackernews)
 # libs: beautiful soup 4 (bs4 package), requests
 # para delimitar o numero de artigos, altere o parametro N da função get_text()
