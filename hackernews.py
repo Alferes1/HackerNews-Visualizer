@@ -1,7 +1,6 @@
 # fetches the last 10 news from news.ycombinator.com (hackernews)
 # libs: beautiful soup 4 (bs4 package), requests
-# Funcao get_text(Numero de Artigos) -- int
-# para delimitar o numero de artigos, altere o parametro N da função get_text()
+# para delimitar o numero de artigos, altere o parametro N da funÃ§Ã£o get_text()
 
 import requests
 from bs4 import BeautifulSoup
