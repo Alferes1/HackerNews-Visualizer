@@ -8,7 +8,7 @@ The script will display 5 items by default. <br>
 You can set the number of news items displayed by modifying the 'Number' attribute in the 'get_text()' function.
 <br></br>
 <b> Example: </b>
-To fetch 10 news items: <br></br>
-Change 'get_text()' to 'get_text(10)'. <br>
-
+To fetch 10 news items:
+Change 'get_text()' to 'get_text(10)'.
+<br></br>
 To fetch all news from the website, simply leave the attribute blank.
