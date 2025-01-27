@@ -1,5 +1,5 @@
 # HackerNews Visualizer
-This script fetches a specified number of news from news.ycombinator.com on Linux terminal.
+This script fetches a specified number of news from <a href = "news.ycombinator.com" > news.ycombinator.com </a> on Linux terminal.
 
 <h3> <b>Usage</b> </h3>
 Simply run the file (hackernews.py) 
