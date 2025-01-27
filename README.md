@@ -9,6 +9,6 @@ You can set the number of news items displayed by modifying the 'Number' attribu
 <br></br>
 <b> Example: </b>
 To fetch 10 news items:
-Change 'get_text()' to 'get_text(10).
+Change 'get_text()' to 'get_text(10)'
 <br></br>
 To fetch all news from the website, simply leave the attribute blank
