@@ -21,7 +21,7 @@ def get_text(n):
 
     cnt = cnt + 1 
     if cnt == n:  # Numero de Noticias
-      break  # Interrompe o loop 'for' se cnt for maior que valor especificado
+      break  # Interrompe o loop 'for' se cnt for maior que valor especificado (n)
 
 #
 
