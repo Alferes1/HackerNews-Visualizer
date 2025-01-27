@@ -5,7 +5,7 @@ This script fetches a specified number of news from news.ycombinator.com on Linu
 Simply run the file (hackernews.py) 
 <br></br>
 The script will display 5 items by default <br>
-You can set the number of news items displayed by modifying the 'Number' attribute in the 'get_text()' function
+You can set the number of news items displayed by modifying the 'Number' attribute in the 'get_text()' function, at the end of the code
 <br></br>
 <b> Example: </b>
 To fetch 10 news items:
